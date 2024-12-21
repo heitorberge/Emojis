@@ -405,12 +405,13 @@ You can use Anywhere! | Pode Usar Onde quiser!
 👶🏽
 👶🏾
 👶🏿
-# Others
+# Bath
 🛀🏻
 🛀🏼
 🛀🏽
 🛀🏾
 🛀🏿
+# More Humans
 🧔🏿
 🧔🏻
 🧔🏾
@@ -609,6 +610,7 @@ You can use Anywhere! | Pode Usar Onde quiser!
 👩🏽‍💻
 👩🏾‍💻
 👩🏿‍💻
+# More Body Parts
 👊🏻
 👊🏼
 👊🏽
@@ -624,6 +626,7 @@ You can use Anywhere! | Pode Usar Onde quiser!
 🦶🏾
 🦶🏼
 🦶🏽
+# More Humans
 👧🏻
 👧🏼
 👧🏽
@@ -674,6 +677,7 @@ You can use Anywhere! | Pode Usar Onde quiser!
 🤹🏽
 🤹🏾
 🤹🏿
+# Body Parts
 🤛🏻
 🤛🏼
 🤛🏽
@@ -689,6 +693,7 @@ You can use Anywhere! | Pode Usar Onde quiser!
 🤟🏾
 🤟🏼
 🤟🏽
+# More Humans
 🧙🏿
 🧙🏻
 🧙🏾
@@ -1242,6 +1247,7 @@ You can use Anywhere! | Pode Usar Onde quiser!
 🏂🏽
 🏂🏾
 🏂🏿
+# More Emojis
 🦸🏿
 🦸🏻
 🦸🏾
