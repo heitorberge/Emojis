@@ -3319,4 +3319,6 @@ You can use Anywhere! | Pode Usar Onde quiser!
 🇿🇼
 🇨🇲
 🇨🇳
-🏳️‍⚧
+🏳️‍⚧  
+All Emojis Came From https://emojitool.com/pt  
+Todos os Emojis Vieram de https://emojitool.com/pt
