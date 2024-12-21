@@ -1,5 +1,7 @@
 # Emojis
-Para Copiar E Colar. | To Copy And Paste.
+Para Copiar E Colar. | To Copy And Paste.  
+You can use Anywhere! | Pode Usar Onde quiser!  
+# Face
 😀
 😃
 😄
@@ -108,6 +110,7 @@ Para Copiar E Colar. | To Copy And Paste.
 😿
 😾
 💋
+# Hands / Body Barts
 👋
 🤚
 🖐️
@@ -152,6 +155,7 @@ Para Copiar E Colar. | To Copy And Paste.
 👁️
 👅
 👄
+# Humans
 👶
 🧒
 👦
@@ -344,6 +348,7 @@ Para Copiar E Colar. | To Copy And Paste.
 👤
 👥
 👣
+# Objects
 🧳
 🌂
 ☂️
@@ -384,6 +389,7 @@ Para Copiar E Colar. | To Copy And Paste.
 💄
 💍
 💼
+# More Humans
 🧑🏿
 🧑🏻
 🧑🏾
@@ -399,6 +405,7 @@ Para Copiar E Colar. | To Copy And Paste.
 👶🏽
 👶🏾
 👶🏿
+# Others
 🛀🏻
 🛀🏼
 🛀🏽
